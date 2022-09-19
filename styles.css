@@ -5,7 +5,7 @@
 }
 
 :root {
-  --accent-color: #641bff;
+  --accent-color: #59249f;
   --headings-font-family: "Poopins", sans-serif;
   --body-font-family: "Lato", sans-serif;
 }
@@ -82,7 +82,7 @@ body {
 .per-month {
   font-size: 0.75rem;
   align-self: flex-end;
-  margin-bottom: 1.1rem;
+  margin-bottom: 0.5rem;
   text-transform: uppercase;
 }
 
